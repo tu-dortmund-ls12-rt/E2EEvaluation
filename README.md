@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **The framework has moved to: [https://github.com/E2E-Evaluation-org/E2EEvaluation](https://github.com/E2E-Evaluation-org/E2EEvaluation)**
+>
+> This repository contains the archived version of the framework, developed as part of the master's thesis developed by Robin Edmaier. 
+>
+> Please refer to the new repository for the latest version, updates, and future development.
+
+
 # Evaluation Framework for End-to-End Latency of Cause-Effect Chains
 Evaluation framework for end-to-end analysis methods for cause-effect chains.
 The framework was initiated as part of the [master's thesis](https://github.com/tu-dortmund-ls12-rt/E2EEvaluation/blob/main/doc/E2EEvaluation.pdf) of Robin Edmaier. 
